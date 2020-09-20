@@ -1,0 +1,24 @@
+{
+  "name": "@janbican/caesar-cipher",
+  "version": "1.0.0",
+  "description": "Encrypt and decrypt messages with Caesar Cipher.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janbican/caesar-cipher.git"
+  },
+  "keywords": [
+    "caesar-cipher",
+    "cipher"
+  ],
+  "author": "Jan Bičan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janbican/caesar-cipher/issues"
+  },
+  "homepage": "https://github.com/janbican/caesar-cipher#readme"
+}
